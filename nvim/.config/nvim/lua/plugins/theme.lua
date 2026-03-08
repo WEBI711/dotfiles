@@ -1,0 +1,1 @@
+/home/wahid/.config/omarchy/current/theme/neovim.lua
